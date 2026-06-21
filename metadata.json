@@ -1,0 +1,7 @@
+{
+  "name": "EduGemini: Your Fun Learning Buddy",
+  "description": "An interactive AI tutor for Math, Science, and English designed for students aged 7-15, featuring AI explanations, quizzes, and visual aids.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
