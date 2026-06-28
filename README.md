@@ -1,5 +1,5 @@
 <div align="center">
-   ![image alt] (image url)
+   ![image alt] (https://github.com/algopeersaicourse/edu-ghana/blob/01737ec2fc04a7dc8cde6a20919398f01a3b3cab/Screenshot%202026-06-28%20174057.png)
 </div>
 
 # Run and deploy your AI Studio app
