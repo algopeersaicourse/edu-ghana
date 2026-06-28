@@ -1,5 +1,5 @@
 <div align="center">
-   ![image alt] (https://github.com/algopeersaicourse/edu-ghana/blob/3046ba00f790f8f25f46787f6aed4a24d3e1a04d/Screenshot%202026-06-28%20174057.png)
+   <img width="1200" height="475" alt="GHBanner" src=""/>
 </div>
 
 # Run and deploy your AI Studio app
